@@ -1,0 +1,15 @@
+# Secrets - never upload
+meter_token.txt
+*token*.txt
+secrets.h
+.env
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
